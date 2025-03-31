@@ -15,8 +15,7 @@ A binary classification problem to predict whether a histopathological image con
 ### Data Quality
 No missing values found in the dataset:
 
-```plaintext
-Missing values summary:
+## Missing values summary:
 id       0
 label    0
 dtype: int64
